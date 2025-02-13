@@ -25,5 +25,4 @@ The E-Shopping Mall application is designed to facilitate online shopping by all
 - Prepare the application for deployment using `mvn package`.
 - Deploy the generated JAR file on a server or cloud service.
 
-## License Information
-This project is licensed under the MIT License.
+.
